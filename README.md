@@ -1,0 +1,1 @@
+In this project I used REST APIs methods such as get method to fetch the records and post method to add the records in the postman to store in the database.I used MongoDB database to store the records.
