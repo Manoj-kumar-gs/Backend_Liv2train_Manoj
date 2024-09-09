@@ -1,1 +1,1 @@
-In this project I used REST APIs methods such as get method to fetch the records and post method to add the records in the postman to store in the database.I used MongoDB database to store the records.
+In this project I used REST APIs methods such as get method to fetch the records and post method to add the records in the postman to store in the database.I created template for the records in the trainindCenter file inside the models folder.I created one launcher file app.js to start the server and connecting to the database.I used MongoDB database to store the records.
